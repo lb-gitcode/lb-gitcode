@@ -18,6 +18,7 @@ I'm currently working on a personal project creating a game designed for web bro
 - CLI
 - Object Oriented Programming (JS)
 - Communication and Presentation Skills
+- GitHub
 
 #### Fun Facts:
 - My drink of choice is Dr. Pepper
