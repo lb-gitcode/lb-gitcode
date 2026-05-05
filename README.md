@@ -31,7 +31,9 @@ My name is Lauren, I am 23 years old, and I am a student at MITT studying softwa
 ```mermaid
 pie
     title Coding Stats
-    "JavaScript" : 30
-    "HTML" : 40
-    "CSS" : 40 
+    "JavaScript" : 20
+    "HTML" : 20
+    "CSS" : 20
+    "C#" : 30
+    "SMSS" : 10
 ```
